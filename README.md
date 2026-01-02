@@ -2,11 +2,7 @@
 
 * npx create-next-app@latest
 
-or 
-
 * npx create-react-router@latest 
-
-or 
 
 * npx create-expo-app@latest
 
